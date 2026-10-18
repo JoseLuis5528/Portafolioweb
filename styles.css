@@ -269,16 +269,15 @@
             color: #fff;
         }
 
-        .modal-box .video-wrapper {
+         .modal-box .video-wrapper {
             position: relative;
-            padding-bottom: 56.25%; /* 16:9 */
-            height: 0;
+            padding-bottom: 24%; /* 16:9 */
+            height: 1;
             margin: 8px 0 24px;
             border-radius: 12px;
             overflow: hidden;
             background: #000;
         }
-
         .modal-box .video-wrapper iframe {
             position: absolute;
             top: 0;
