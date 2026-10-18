@@ -6,8 +6,8 @@ const projects = [{
     year: 2025,
     description: "Instalación inmersiva que explora la relación entre luz, sonido y espacio. Una experiencia sensorial que invita al espectador a ser parte de la obra.",
     credits: "Dir. María González · Arte: Lucía Méndez",
-    videoUrl: "/video/vd1.mp4", // Soporte para video local
-    thumbnail: "/img/calculadora.jpeg"
+    videoUrl: "vd1.mp4", // Soporte para video local
+    thumbnail: "calculadora.jpeg"
 }, {
     id: 2,
     title: "NÓMADA", 
