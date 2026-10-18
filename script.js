@@ -108,7 +108,7 @@ function openModal(id) {
         video.autoplay = true;
         video.playsInline = true;
         video.style.width = '100%';
-        video.style.maxHeight = '400px';
+        video.style.maxHeight = '250px';
         videoWrapper.appendChild(video);
     } else {
         const iframe = document.createElement('iframe');
